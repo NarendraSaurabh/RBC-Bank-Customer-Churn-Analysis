@@ -43,7 +43,7 @@ Table of Contents:
 * Receiver Operating Characteristic (ROC) Curve and AUC.
 * Feature Importance and Contribution.
 
-![Alt text](https://github.com/NarendraSaurabh/RBC-Bank-Customer-Churn-Analysis/blob/main/Screenshot%202024-04-13%20172210.png)
+![Alt text](https://github.com/NarendraSaurabh/RBC-Bank-Customer-Churn-Analysis/blob/main/Screenshot%202024-04-16%20225030.png))
 
 
 Churn Analysis: 
